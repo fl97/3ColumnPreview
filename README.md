@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://fl97.github.io/3ColumnPreview/)
+- Live Site URL: [https://fl97.github.io/3ColumnPreview/](https://fl97.github.io/3ColumnPreview/)
 
 ## My process
 
